@@ -1,0 +1,24 @@
+[2018-08-20 10:27:44.911] [renderer1] [info] no standard startup: not just one text editor
+[2018-08-20 10:27:59.936] [renderer1] [info] No grammar found for scope source.dosbatch
+[2018-08-20 10:28:00.450] [renderer1] [info] No grammar found for scope source.scala
+[2018-08-20 10:28:00.529] [renderer1] [info] No grammar found for scope source.dart
+[2018-08-20 10:28:00.529] [renderer1] [info] No grammar found for scope source.smarty
+[2018-08-20 10:28:00.529] [renderer1] [info] No grammar found for scope text.html.javadoc
+[2018-08-20 10:28:00.529] [renderer1] [info] No grammar found for scope source.postscript
+[2018-08-20 10:28:00.529] [renderer1] [info] No grammar found for scope source.c++
+[2018-08-20 10:28:00.529] [renderer1] [info] No grammar found for scope source.js.jquery
+[2018-08-20 10:28:00.529] [renderer1] [info] No grammar found for scope source.sass
+[2018-08-20 10:28:00.529] [renderer1] [info] No grammar found for scope source.less
+[2018-08-20 10:28:00.530] [renderer1] [info] No grammar found for scope source.stylus
+[2018-08-20 10:28:00.530] [renderer1] [info] No grammar found for scope source.applescript
+[2018-08-20 10:28:00.530] [renderer1] [info] No grammar found for scope text.html.textile
+[2018-08-22 09:25:43.135] [renderer1] [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+	at Object.t.illegalArgument (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:95:358)
+	at new e (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:455:466)
+	at asPosition (/usr/share/code/resources/app/extensions/html-language-features/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+	at asRange (/usr/share/code/resources/app/extensions/html-language-features/node_modules/vscode-languageclient/lib/protocolConverter.js:59:56)
+	at asCompletionInsertText (/usr/share/code/resources/app/extensions/html-language-features/node_modules/vscode-languageclient/lib/protocolConverter.js:206:62)
+	at asCompletionItem (/usr/share/code/resources/app/extensions/html-language-features/node_modules/vscode-languageclient/lib/protocolConverter.js:166:26)
+	at Array.map (native)
+	at asCompletionResult (/usr/share/code/resources/app/extensions/html-language-features/node_modules/vscode-languageclient/lib/protocolConverter.js:143:51)
+	at <anonymous>

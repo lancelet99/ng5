@@ -1,0 +1,26 @@
+[2018-08-20 10:27:45.282] [exthost1] [info] extension host started
+[2018-08-20 10:27:45.312] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-08-20 10:27:45.312] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-08-20 10:27:45.360] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-08-20 10:27:45.360] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-08-20 10:27:45.470] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-08-20 10:27:45.470] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-08-20 10:27:45.477] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2018-08-20 10:27:45.477] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/search-rg/out/extension
+[2018-08-20 10:27:45.481] [exthost1] [info] eager extensions activated
+[2018-08-20 10:27:59.470] [exthost1] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:markdown"}
+[2018-08-20 10:27:59.470] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/out/extension
+[2018-08-20 10:27:59.480] [exthost1] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"activationEvent":"onLanguage:markdown"}
+[2018-08-20 10:27:59.480] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/markdown-language-features/out/extension
+[2018-08-20 10:28:00.930] [exthost1] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2018-08-20 10:28:00.930] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/out/extension
+[2018-08-20 10:28:00.937] [exthost1] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:json"}
+[2018-08-20 10:28:00.937] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/out/jsonMain
+[2018-08-20 10:28:01.003] [exthost1] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onLanguage:json"}
+[2018-08-20 10:28:01.003] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/npm/out/main
+[2018-08-20 10:33:16.254] [exthost1] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2018-08-20 10:33:16.254] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/out/extension
+[2018-08-20 13:04:17.844] [exthost1] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2018-08-20 13:04:17.844] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html-language-features/client/out/htmlMain
+[2018-08-20 13:13:08.441] [exthost1] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"activationEvent":"onLanguage:scss"}
+[2018-08-20 13:13:08.441] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/css-language-features/client/out/cssMain
